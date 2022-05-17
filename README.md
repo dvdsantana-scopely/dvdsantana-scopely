@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dvdsantana-scopely
 - 👀 I’m interested in clean code and .net ecosystem
-- 🌱 I’m currently learning videgames development
-- 📫 How to reach me david.santana@scopely.com
+- 🌱 I’m currently learning videogames development
+- 📫 You can to reach me david.santana@scopely.com
 
 <!---
 dvdsantana-scopely/dvdsantana-scopely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
